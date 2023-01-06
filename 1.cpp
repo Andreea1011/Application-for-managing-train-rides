@@ -226,7 +226,7 @@ public:
 
     void costInchiriere()
     {
-        double costZeceZile = 998000, costCinciZile = 5 * 10000;
+        double costZeceZile = 98000, costCinciZile = 5 * 10000;
 
         costZeceZile = costZeceZile / 4.65; // convertire in dolari
         costCinciZile = costCinciZile / 4.65;
