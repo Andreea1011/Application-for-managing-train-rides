@@ -1,1 +1,1 @@
-# Application for managing train rides
+# Movie Production Cost Calculator
